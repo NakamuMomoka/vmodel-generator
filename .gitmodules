@@ -1,0 +1,6 @@
+[submodule "stable-diffusion-webui-docker"]
+	path = stable-diffusion-webui-docker
+	url = https://github.com/AbdBarho/stable-diffusion-webui-docker.git
+[submodule "talking-head-anime-3-demo"]
+	path = talking-head-anime-3-demo
+	url = https://github.com/pkhungurn/talking-head-anime-3-demo.git

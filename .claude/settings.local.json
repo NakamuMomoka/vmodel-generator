@@ -19,7 +19,13 @@
       "Bash(mkdir:*)",
       "WebFetch(domain:zenn.dev)",
       "Bash(go:*)",
-      "Bash(\"C:\\Program Files\\Go\\bin\\go.exe\" version)"
+      "Bash(\"C:\\Program Files\\Go\\bin\\go.exe\" version)",
+      "Bash(dir:*)",
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(git reset:*)",
+      "Bash(git rev-list:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []

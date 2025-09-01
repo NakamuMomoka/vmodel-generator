@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:tech-blog.cloud-config.jp)",
+      "Bash(wsl:*)",
+      "Bash(docker:*)",
+      "Bash(nvidia-smi:*)",
+      "Bash(start \"\" \"C:\\Program Files\\Docker\\Docker\\Docker Desktop.exe\")",
+      "Bash(python:*)",
+      "Bash(vtuber_envScriptsactivate)",
+      "Bash(.vtuber_envScriptsactivate.bat)",
+      "Bash(dir)",
+      "Bash(vtuber_env/Scripts/activate:*)",
+      "Bash(pip install:*)",
+      "Bash(git clone:*)",
+      "Bash(curl:*)",
+      "Bash(powershell:*)",
+      "Bash(mv:*)",
+      "Bash(mkdir:*)",
+      "WebFetch(domain:zenn.dev)",
+      "Bash(go:*)",
+      "Bash(\"C:\\Program Files\\Go\\bin\\go.exe\" version)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
